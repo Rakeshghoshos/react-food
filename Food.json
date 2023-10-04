@@ -1,0 +1,20 @@
+{
+    "foods" : [
+        {"id": "1","image": "i1.jpg","name" : "rava","desc" : "full plate rava special for families..", "price" : "200"},
+        {"id": "2","image": "i2.jpg","name" : "gujarati thali","desc" : "guajrati thali for your loved ones..." , "price" : "320"},
+        {"id": "3","image": "i3.jpg","name" : "punajbi","desc" : "full plate punjabi ye dil mange more...", "price" : "100"},
+        {"id": "4","image": "i4.jpg","name" : "idli sambhar","desc" : "full plate idli sambhar good for health...", "price" : "280"},
+        {"id": "5","image": "i5.jpg","name" : "south indian","desc" : "full plate south indian taste of india...", "price" : "140"},
+        {"id": "6","image": "i6.jpg","name" : "north indian","desc" : "full plate north india best of today's...", "price" : "190"},
+        {"id": "7","image": "i7.jpg","name" : "italain","desc" : "full plate italain for your 'the special one'...", "price" : "240"},
+        {"id": "8","image": "i8.jpg","name" : "vegatarian","desc" : "full plate vegatarian full veg...", "price" : "300"},
+        {"id": "9","image": "i9.jpg","name" : "mix","desc" : "full plate mix all india in one plate...", "price" : "170"},
+        {"id": "10","image": "i10.jpg","name" : "special","desc" : "full plate special try it and love it...", "price" : "150"},
+        {"id": "11","image": "i11.jpg","name" : "valentine","desc" : "full plate valentine for the special...", "price" : "260"},
+        {"id": "12","image": "i12.jpg","name" : "normal","desc" : "full plate normal have a good day...", "price" : "310"},
+        {"id": "13","image": "i13.jpg","name" : "shai","desc" : "full plate shai shahi for the shahi's", "price" : "220"},
+        {"id": "14","image": "i14.jpg","name" : "maharaja","desc" : "full plate maharaja be the maharja...", "price" : "290"},
+        {"id": "15","image": "i15.jpg","name" : "simple","desc" : "full plate simple not in a good mood try it", "price" : "130"},
+        {"id": "16","image": "i16.jpg","name" : "delicious","desc" : "you will bite your finger's", "price" : "150"}
+    ]
+}

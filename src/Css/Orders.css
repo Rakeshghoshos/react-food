@@ -1,0 +1,40 @@
+.ordd{
+    width: 60%;
+    height: fit-content;
+    position: absolute;
+    top : 20%;
+    left: 20%;
+    z-index: -1;
+    border-radius: 5%;
+    padding: 1% 1%;
+    display: grid;
+    grid-template-columns: 100%;
+    justify-content: center;
+    row-gap: 5%;
+    box-sizing: border-box;
+}
+.di{
+    width: 60%;
+    height: 40vh;
+    border-radius: 5%;
+    padding: 2% 2%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 0%;
+    box-sizing: border-box;
+    background-color: lightpink;
+}
+
+.di img{
+    width: 80%;
+    height: 25vh;
+}
+button{
+    background-color: lightpink;
+    border: none;
+}
+.close{
+    position: relative;
+    top: 0%;
+    right: 0%;
+}

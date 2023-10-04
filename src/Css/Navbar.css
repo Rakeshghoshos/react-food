@@ -1,0 +1,22 @@
+nav{
+    background-color:tomato;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    height: 10%;
+    width: 100%;
+}
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+li{
+    text-decoration: none;
+    list-style: none;
+    padding: 0px 5px;
+}
+details{
+    margin: 0px 20px;
+}

@@ -1,0 +1,34 @@
+.ord-div{
+    width: 40%;
+    height: 40vh;
+    position: fixed;
+    top: 30%;
+    left: 30%;
+    z-index: 2;
+    border-radius: 5%;
+    padding: 2% 2%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 0%;
+    box-sizing: border-box;
+    background-color: lightpink;
+}
+.ord-div img{
+    width: 80%;
+    height: 25vh;
+}
+button{
+    background-color: lightpink;
+    border: none;
+}
+.close{
+    position: relative;
+    top: 0%;
+    right: 0%;
+}
+.addtocart{
+    width: 40%;
+    height: 5vh;
+    background-color: lightsalmon;
+    margin: 0% 5%;
+}
